@@ -1,5 +1,6 @@
 # Minimart-SQL-Analysis
 Source : Tetris 3 (DQLab 2023)
+N/B : File .sql utk database ada di dalam .zip dikarenakan sizenya melebihi 25mb.
 
 ## 📌 Deskripsi
 
