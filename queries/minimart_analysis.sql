@@ -2,7 +2,11 @@
 SELECT 
     mc.nama_cabang,
     mk.nama_kota,
-    SUM(tp.jumlah_pembelian) AS total_penjualan
+    SUM(tp.jumlah_pembelian) AS total_penjualan,
+    ROUND(
+        100.0 * SUM(tp.jumlah_pembelian) / SUM(SUM(tp.jumlah_pembelian)) OVER(), 
+        2
+    ) AS persentase_penjualan
 FROM tr_penjualan tp
 JOIN ms_cabang mc ON tp.kode_cabang = mc.kode_cabang
 JOIN ms_kota mk ON mc.kode_kota = mk.kode_kota
