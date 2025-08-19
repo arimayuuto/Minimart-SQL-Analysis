@@ -44,10 +44,10 @@ Mendapatkan insight bisnis dari data transaksi minimarket
 
 1. Cabang dengan penjualan terbesar adalah PHI Mini Market - Surabaya 01 di kota Surabaya, dengan total penjualan mencapai **1.538.807 unit (33,44% dari total nasional)**. Namun, hasil analisis juga menunjukkan bahwa dua cabang lainnya memiliki kontribusi yang hampir sama besar, yaitu masing-masing **33,28%**, sehingga **distribusi penjualan di ketiga cabang relatif merata**.
 
-2. Kategori terlaris adalah Makanan & Minuman, dengan produk paling populer yaitu Jus Kesehatan 600 ml.
+2. Kategori **Makanan & Minuman** menjadi yang paling laku. Produk terlaris adalah **Jus Kesehatan 600 ml**, terjual sebanyak **115.061 unit**.
 
-3. Revenue tertinggi berasal dari cabang PHI Mini Market - Surabaya 01, sementara margin laba tertinggi berasal dari produk Mie Instant 1 kotak (40 bungkus).
+3. Revenue tertinggi berasal dari cabang **PHI Mini Market - Surabaya 01**, mencapai **Rp 21.866.860.670**. Margin laba tertinggi berasal dari produk Mie **Instant 1 kotak (40 bungkus)** dengan estimasi laba **Rp 430.675.570**.
 
-4. Kasir paling aktif adalah Natali Menawan dari cabang PHI Mini Market - Surabaya 01, dengan total 29.240 transaksi.
+4. **Natali Menawan (kasir di cabang PHI Mini Market - Surabaya 01)** mencatat jumlah transaksi terbanyak, yaitu **29.240 transaksi** dalam periode analisis.
 
-5. Provinsi Jawa Timur menjadi kontributor utama dalam penjualan, dengan total penjualan lebih tinggi dibanding provinsi lain.
+5. **Provinsi Jawa Timur** menjadi kontributor utama dalam penjualan, dengan total penjualan lebih tinggi dibanding provinsi lain.
