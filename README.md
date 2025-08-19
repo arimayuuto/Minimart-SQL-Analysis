@@ -30,24 +30,24 @@ Mendapatkan insight bisnis dari data transaksi minimarket
 
 ## 🔍 Pertanyaan Bisnis yang Dijawab
 
-Cabang mana yang paling banyak penjualannya?
+1. Cabang mana yang paling banyak penjualannya?
 
-1. Produk dan kategori apa yang paling laku?
+2. Produk dan kategori apa yang paling laku?
 
-2. Revenue dan margin laba tiap cabang/produk?
+3. Revenue dan margin laba tiap cabang/produk?
 
-3. Kasir mana yang paling aktif?
+4. Kasir mana yang paling aktif?
 
-4. Wilayah (kota/propinsi) mana yang paling tinggi penjualannya?
+5. Wilayah (kota/propinsi) mana yang paling tinggi penjualannya?
 
 ## 📈 Insight Sementara
 
-Cabang X di kota Y menyumbang penjualan terbesar
+1. Cabang PHI Mini Market - Surabaya 01 di kota Surabaya menyumbang penjualan terbesar
 
-1. Produk kategori Minuman adalah kategori terlaris
+2. Produk kategori Makanan & Minuman adalah kategori terlaris dengan nama produk Jus Kesehatan 600 ml
 
-2. Margin tertinggi datang dari produk Z
+3. Margin tertinggi datang dari produk ...
 
-3. Kasir A mencatat jumlah transaksi terbanyak
+4. Kasir Natali Menawan dari cabang PHI Mini Market - Surabaya 01 mencatat jumlah transaksi terbanyak
 
-4. Provinsi B menjadi kontributor utama dalam penjualan
+5. Provinsi Jawa Timur menjadi kontributor utama dalam penjualan
